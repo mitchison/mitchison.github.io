@@ -18,19 +18,19 @@ email: markTmitchison@gmail.com
 description: > # this means to ignore newlines until "baseurl:" 
   Hello! I'm a theoretical physicist interested in open quantum systems. 
   These systems are tiny objects with quantum properties (like atoms, for example), 
-  which are immersed in a much larger environment. I try to understand how we can use 
-  such open systems to harvest and transport energy more efficiently, or how to make 
-  scientific measurements in more accurate and precise ways. This website contains links 
-  to my papers and other bits of information that it's useful for me to store online.
+  which are immersed in a much larger environment. I try to understand how to use open
+  quantum systems to effectively harvest and transport energy or to make scientific 
+  measurements more accurate, precise or efficient. This website contains links to my 
+  papers and other bits of information that it's useful for me to store online.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+# github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
